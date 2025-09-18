@@ -1,9 +1,5 @@
 # Walmart Sales Forecasting & Analysis  
 
-![Project Banner](A_project_banner_features_a_capstone_project_title.png)
-
----
-
 ## 📌 Project Overview  
 This project focuses on analyzing and forecasting Walmart’s weekly sales data across U.S. retail outlets. The dataset contains **6,400+ records** with features such as holidays, temperature, fuel price, CPI, and unemployment rate.  
 
